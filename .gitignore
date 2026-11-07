@@ -54,7 +54,6 @@ venv/
 .lock
 .local/*
 yarn-error.log
-.env
 .pytest_cache/v/cache/*
 .lighthouseci
 .direnv/*
@@ -82,3 +81,5 @@ debug.log
 
 # Puppeteer acceptance tests.
 jest-runtime-config.json
+config.bat
+node_modules
