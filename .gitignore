@@ -83,3 +83,4 @@ debug.log
 jest-runtime-config.json
 config.bat
 node_modules
+.env
